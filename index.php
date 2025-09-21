@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRUD Mahasiswa</title>
+    <title>Tugas Kerud</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -76,3 +76,4 @@
     </div>
 </body>
 </html>
+
